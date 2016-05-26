@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="reload">Reload</string>
+    <string name="powered">Powered by MLStuff</string>
+    <string name="drawerAppName">Gift List</string>
+    <string name="drawerPowered">MLStuff</string>
 </resources>
